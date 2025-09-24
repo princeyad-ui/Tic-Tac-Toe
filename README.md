@@ -31,10 +31,12 @@ To play the game locally:
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
    cd tic-tac-toe
-
+   
+```
    📂 Project Structure
 tic-tac-toe/
 ├── index.html
 ├── style.css
 ├── App.js
 └── README.md
+```
