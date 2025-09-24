@@ -22,14 +22,6 @@ A simple and fun **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 
 ---
 
-## 📸 Screenshot
-
-![Tic Tac Toe Screenshot](screenshot.png)
-
-*(Add your screenshot file in the repo or link to one)*
-
----
-
 ## 🚀 Getting Started
 
 To play the game locally:
@@ -39,3 +31,10 @@ To play the game locally:
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
    cd tic-tac-toe
+
+   📂 Project Structure
+tic-tac-toe/
+├── index.html
+├── style.css
+├── App.js
+└── README.md
